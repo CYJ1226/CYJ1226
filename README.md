@@ -1,7 +1,9 @@
-## Data Scientist | AI Engineer | LLM Specialist
+# 추영재 | Data & AI Engineer
 
-데이터를 통해 복잡한 행정 및 전문 지식 시스템의 효율을 극대화하는 **데이터 사이언티스트**입니다. 
-단순한 모델링을 넘어, **RAG 파이프라인 최적화, Multi-Query, Agent 아키텍처**를 활용해 실무적인 문제를 해결하는 데 강점이 있습니다.
+데이터를 분석해 문제의 근거를 찾고, 이를 **RAG·LLM 기반 서비스로 구현**합니다.
+
+- 🔎 **관심 분야:** Data Analytics, RAG, LLM Evaluation, AI Applications
+- 🌱 **현재 목표:** 데이터 분석과 AI 서비스 개발을 연결하는 엔지니어로 성장하고 있습니다.
 
 ---
 
