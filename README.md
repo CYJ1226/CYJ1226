@@ -43,28 +43,26 @@
 ## 📂 Featured Projects
 <!-- 아래 프로젝트들의 GitHub 링크도 이미지 배지로 교체하면 더 깔끔합니다 -->
 
-### ⚖️ 감사 정보 통합 시스템 (A.I.D)
-<a href="https://github.com/CYJ1226/audit-intelligence-db">
-  <img src="https://img.shields.io/badge/Repository-감사정보시스템-blue?style=flat-square&logo=github" alt="Project Repo"/>
-</a>
+### ⚖️ [감사 정보 통합 시스템 (A.I.D)](https://github.com/CYJ1226/audit-intelligence-db)
+
+감사 사례 검색부터 보고서 초안 생성까지 지원하는 **RAG 기반 감사 업무 보조 서비스**입니다.
 
 - **Period:** 2025.11.24 - 2026.01.05
-- **Role:** RAG 시스템 및 Agent 아키텍처 설계, 모니터링 및 성능 평가 환경 구축
-- **Key Achievements:**
-    - **하이브리드 검색 및 Multi-query 도입:** 핵심 키워드 무시 문제를 해결하여 답변 적합도(Answer Relevancy) **66% → 77%** 개선
-    - **정량적 평가 체계 정립:** Ragas 및 Opik을 활용하여 100여 개의 테스트 셋에 대한 실시간 성능 모니터링 환경 구축
-    - **Agent 생성 워크플로우:** 단순 Q&A를 넘어 '정보 수집-사례 검색-초안 작성'의 3단계 에이전트 설계로 실무형 HWP/DOCX 결과물 도출 기능 구현
-- **Tech:** gpt-4o-mini, gpt-5.1, PostgreSQL, Langflow, Streamlit
+- **Role:** RAG 시스템 및 AI Agent 아키텍처 설계, 성능 평가·모니터링 환경 구축
+- **Retrieval:** 하이브리드 검색과 Multi-Query를 적용하여 핵심 키워드 누락과 질문 표현에 따른 검색 편차 개선
+- **Result:** Answer Relevancy **66% → 77%** 개선
+- **Evaluation:** Ragas와 Opik을 활용해 약 100개의 테스트 질문에 대한 정량 평가 체계 구축
+- **Agent:** 정보 수집 → 사례 검색 → 초안 작성으로 이어지는 3단계 보고서 생성 워크플로 구현
+- **Tech:** Python, Langflow, PostgreSQL, Ragas, Opik, Streamlit
 
-### 🤖 교육기관 행정 챗봇 (모두봇)
-<a href="https://github.com/CYJ1226/modubot">
-  <img src="https://img.shields.io/badge/Repository-모두봇-green?style=flat-square&logo=github" alt="Project Repo"/>
-</a>
+### 🤖 [교육기관 행정 챗봇 (모두봇)](https://github.com/CYJ1226/modubot)
+
+분산된 교육·행정 정보를 자연어로 검색하고 관련 플랫폼과 서식을 안내하는 **RAG 기반 챗봇 서비스**입니다.
 
 - **Period:** 2025.10.24 - 2025.10.27
-- **Role:** RAG 기반 검색 엔진 구축 및 컨텍스트 최적화 파이프라인 설계
-- **Key Achievements:**
-    - **검색 파이프라인 고도화:** MMR 검색, Rerank, Reorder 기술을 체인으로 결합하여 답변 정확도 **75% → 95%** 달성
-    - **Long Context Reorder 적용:** 'Lost in the Middle' 현상 해결을 위해 중요 문서 배치를 최적화하여 LLM 참조 능력 극대화
-    - **데이터 전처리 최적화:** 파편화된 행정 수치 데이터를 동일 학생 기준으로 그룹화하여 합산 오류 및 정보 누락 방지
-- **Tech:** gpt-4o-mini, OpenAI text-embedding-3-large, Chroma, Streamlit
+- **Role:** RAG 검색 엔진 구축 및 LLM 입력 컨텍스트 최적화
+- **Retrieval:** MMR과 Cohere Rerank를 결합하여 검색 결과의 다양성과 관련성 개선
+- **Context Optimization:** Long Context Reorder로 중요 문서를 컨텍스트 앞뒤에 배치하여 'Lost in the Middle' 현상 완화
+- **Result:** 내부 테스트 기준 답변 정확도 **75% → 95%** 개선
+- **Data Processing:** 학생별 출결 데이터를 하나의 컨텍스트로 재구성하여 합산 오류와 정보 누락 방지
+- **Tech:** Python, LangChain, ChromaDB, OpenAI API, Streamlit
