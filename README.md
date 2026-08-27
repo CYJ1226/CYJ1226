@@ -9,12 +9,12 @@
 
 ## 🛠 Skills & Technologies
 
-- **Languages:** Python 3.12, SQL (SQLD), C, Java
-- **AI & LLM:** LangChain, Langflow, RAG (Retrieval-Augmented Generation), Agent Architecture
-- **NLP Techniques:** MMR Search, Cohere Rerank, Long Context Reorder, Multi-query
-- **Evaluation & Ops:** Ragas, Opik (LLM Judge), Trace Monitoring
-- **Data & DevOps:** PostgreSQL, ChromaDB, Docker, Kubernetes
-- **Certifications:** 정보처리기사, SQLD
+- **Languages:** Python, SQL
+- **Data & Database:** PostgreSQL, ChromaDB
+- **AI & LLM:** LangChain, Langflow, Dify, RAG, AI Agents
+- **Retrieval & Evaluation:** MMR, Cohere Rerank, Multi-Query, Ragas, Opik
+- **Development & Infra:** Streamlit, Docker
+- **Certifications:** 정보처리기사, SQLD, NHN Cloud Essentials
 
 ---
 <!--
