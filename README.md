@@ -7,39 +7,6 @@
 
 ---
 
-## 🛠 Skills & Technologies
-
-- **Languages:** Python, SQL
-- **Data & Database:** PostgreSQL, ChromaDB
-- **AI & LLM:** LangChain, Langflow, Dify, RAG, AI Agents
-- **Retrieval & Evaluation:** MMR, Cohere Rerank, Multi-Query, Ragas, Opik
-- **Development & Infra:** Streamlit, Docker
-- **Certifications:** 정보처리기사, SQLD, NHN Cloud Essentials
-
----
-<!--
-## 📊 Experience & Education
-
-- **모두의연구소 데이터 사이언티스트 부트캠프** 수료 (2025.07 - 2026.01)
-
----
-
-## 📈 My Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[본인ID]&show_icons=true&theme=radical)
-
----
--->
-## 🔗 Contact & Links
-
-<!-- 이미지 클릭 시 링크로 이동하는 배지 섹션입니다 -->
-<div align="center">
-  <a href="mailto:cndudwo1226@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>&nbsp;
-  <a href="https://data-related.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" alt="Blog Badge"/></a>&nbsp;
-  <!-- <a href="[본인의 링크드인 주소]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a> -->
-</div>
-
----
-
 ## 📂 Featured Projects
 <!-- 아래 프로젝트들의 GitHub 링크도 이미지 배지로 교체하면 더 깔끔합니다 -->
 
@@ -66,3 +33,37 @@
 - **Result:** 내부 테스트 기준 답변 정확도 **75% → 95%** 개선
 - **Data Processing:** 학생별 출결 데이터를 하나의 컨텍스트로 재구성하여 합산 오류와 정보 누락 방지
 - **Tech:** Python, LangChain, ChromaDB, OpenAI API, Streamlit
+
+---
+<!--
+## 📊 Experience & Education
+
+- **모두의연구소 데이터 사이언티스트 부트캠프** 수료 (2025.07 - 2026.01)
+
+---
+
+## 📈 My Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[본인ID]&show_icons=true&theme=radical)
+
+---
+-->
+
+## 🛠 Skills & Technologies
+
+- **Languages:** Python, SQL
+- **Data & Database:** PostgreSQL, ChromaDB
+- **AI & LLM:** LangChain, Langflow, Dify, RAG, AI Agents
+- **Retrieval & Evaluation:** MMR, Cohere Rerank, Multi-Query, Ragas, Opik
+- **Development & Infra:** Streamlit, Docker
+- **Certifications:** 정보처리기사, SQLD, NHN Cloud Essentials
+
+---
+
+## 🔗 Contact & Links
+
+<!-- 이미지 클릭 시 링크로 이동하는 배지 섹션입니다 -->
+<div align="center">
+  <a href="mailto:cndudwo1226@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>&nbsp;
+  <a href="https://data-related.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" alt="Blog Badge"/></a>&nbsp;
+  <!-- <a href="[본인의 링크드인 주소]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a> -->
+</div>
